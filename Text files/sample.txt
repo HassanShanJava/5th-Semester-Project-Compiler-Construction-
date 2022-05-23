@@ -1,0 +1,10 @@
+t_Volcano facts and information
+h1_Volcanoes, explained
+p_Volcanoes are Earth's geologic architects. They've created more than 80 percent of our planet's surface, laying the foundation that has allowed life to thrive.
+c_first comment.
+h1_How do volcanoes form?
+p_The majority of volcanoes in the world form
+br_along the boundaries of Earth's tectonic plates massive expanses of our planets lithosphere that continually shift.
+b_Volcanoes are 
+u_dangerous montains connected with the earths core.
+c_second comment.
